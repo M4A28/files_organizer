@@ -51,4 +51,6 @@ Total Size Moved: 12.39 GB
 Script executed successfully.
 
 ```
+## Image from my termainal 
+[image](https://github.com/M4A28/files_organizer/blob/main/report.png)
 
