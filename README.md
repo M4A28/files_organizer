@@ -5,7 +5,7 @@ This Python script organizes files from a source folder into subfolders based on
 ## Prerequisites
 - Python 3.6 or above
 - Required Python packages can be installed using:
-```sh
+```zsh
 $ pip3 install termcolor aiofiles
 
 ```
