@@ -18,7 +18,7 @@ $ pip3 install termcolor aiofiles
 1- Open a terminal or command prompt.
 2- Navigate to the directory containing the script.
 3- Run the script with the following command:
-```py
+```zsh
 python3 organizer.py <source_folder> <destination_folder> 
 ```
 3- The script will organize files based on their categories and move them to the specified destination folder or create subfolders in the current working directory.
@@ -32,11 +32,11 @@ python3 organizer.py <source_folder> <destination_folder>
 File extensions with unsupported types are categorized as "Other."
 The script handles the sanitization of filenames, removing specific characters (except underscores) and replacing hyphens with underscores.
 ## Example:
-```py
+```zsh
 $ python3  orgnaizer.py Downloads/
 ```
 ## Result
-```sh
+```zsh
 Report:
 Execution Time: 1.13 seconds
 Category Counters:
